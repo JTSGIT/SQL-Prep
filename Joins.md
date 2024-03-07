@@ -1,5 +1,3 @@
-Certainly, let's delve deeper into SQL joins, providing a more detailed explanation and example queries for each type of join. Joins are fundamental in SQL for combining rows from two or more tables based on a related column between them, often a primary key in one table that matches a foreign key in another.
-
 ### Types of Joins:
 
 1. **INNER JOIN:**
